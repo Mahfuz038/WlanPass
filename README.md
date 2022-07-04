@@ -1,5 +1,5 @@
 # WlanPass
-This Script can access  WI-Fi Passwords stored in your Windows 10 PC and speaks the stored passwords
+This Script can access  WI-Fi Passwords stored in your Windows 10 PC and can speak the stored passwords
 # How To Use
 Open CMD and type 
 ```
