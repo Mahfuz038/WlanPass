@@ -1,6 +1,6 @@
 # WlanPass
 This Script can access  WI-Fi Passwords stored in your Windows 10 PC and speaks the stored passwords
-#How To Use
+# How To Use
 Open CMD and type 
 git clone https://github.com/Mahfuz038/WlanPass.git
 cd WlanPass
